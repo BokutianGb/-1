@@ -1,24 +1,29 @@
-# score-board
+# 排球计分牌 (score-board)
 
-## Project setup
+## 项目说明
+Vue 实现的排球计分牌应用。
+
+## 本地运行
+
+### 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发模式（热重载）
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 生产构建
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 代码检查与修复
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 配置说明
+参见 [Vue CLI 配置参考](https://cli.vuejs.org/config/)。
